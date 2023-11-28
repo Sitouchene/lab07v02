@@ -33,6 +33,7 @@ namespace labRevisionUA2
             //6 - Est - ce que c1 possède un téléphone.
             Console.WriteLine($"Test si c1 possede un telephoen:{c1.HasPhone()}");
             Console.WriteLine($"Test si c4 possede un telephoen:{c4.HasPhone()}");
+            Console.WriteLine("Modification a approuver!");
 
             //7 - Définir le carnet d’adresse cd1.
             //8 - Ajouter vos contacts c1, c2, c3 et c4 à cd1.
